@@ -1,0 +1,13 @@
+
+š
+java:S1488""^Immediately return this expression instead of assigning it to the temporary variable "result".(šÊÕ¢J$44f33bf1-edf4-4c8d-a8de-51cfce35d32c
+i
+java:S1172 "(Remove this unused method parameter "v".(¬›ª÷üÿÿÿÿJ$77d4254f-a38d-4869-8e34-f65566e145f9
+k	java:S106E"+Replace this use of System.out by a logger.(‡Üø»üÿÿÿÿJ$c8a70d46-96da-4714-89ca-54adf50f58b3
+f	java:S106F"+Replace this use of System.out by a logger.(±ÅÙñJ$a5ced3f5-4ec9-4820-abbd-b43420436034
+k	java:S106J"+Replace this use of System.out by a logger.(‡Üø»üÿÿÿÿJ$60bc71a2-98e9-4aa8-a03e-68107fd44880
+f	java:S106K"+Replace this use of System.out by a logger.(±ÅÙñJ$3df2e1b1-8641-4c01-ab58-69171ce7324e
+i
+java:S1068"-Remove this unused "unDiGraph" private field.(¦ì®´J$6149b1c3-377c-4def-b35d-897a647e9f83
+o
+java:S11448".Remove this unused private "setNumber" method.(¨ÃÑÁûÿÿÿÿJ$33e708ea-21d0-454d-9da0-4f499b1d3ef1

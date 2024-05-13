@@ -1,0 +1,25 @@
+
+E
+java:S3740s"/Provide the parametrized type for this generic.(Ò†Ψ
+x
+java:S1192/"]Define a constant instead of duplicating this literal "times must be greater than 0" 3 times.(Ξ€―±ÿÿÿÿÿ
+g
+java:S3655Ϊ"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¦£ς
+l
+java:S3655Ρ"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(φ’µχώÿÿÿÿ
+g
+java:S3655μ"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‰ÿ›΅
+l
+java:S3655γ"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ξ―ψωÿÿÿÿ
+l
+java:S3655υ"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(™ώ€Θϊÿÿÿÿ
+Q	java:S125["<This block of commented-out lines of code should be removed.(Ϋ‹θ‹
+V	java:S125c"<This block of commented-out lines of code should be removed.(ϋ«δ¨ωÿÿÿÿ
+Q	java:S125{"<This block of commented-out lines of code should be removed.(Ϋ‹θ‹
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(ϋ«δ¨ωÿÿÿÿ
+=
+java:S3864"!Remove this use of "Stream.peek".(™παώÿÿÿÿ
+8
+java:S3864‰"!Remove this use of "Stream.peek".(―Ά²Ν
+>
+java:S1481Ό"(Remove this unused "sum" local variable.(±‘8

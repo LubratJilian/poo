@@ -1,0 +1,29 @@
+
+
+java:S1488Y"\Immediately return this expression instead of assigning it to the temporary variable "path".(ûïê€úÿÿÿÿJ$30609207-50af-4b1f-a386-5163b8626326
+i
+java:S1172("-Remove this unused method parameter "aGraph".(âá¹øJ$a12c1f43-ba89-49f2-96f7-58b8ced678fb
+t
+java:S34006"9Remove this method and declare a constant for this value.(¸®Ã'J$87419dbc-d69a-4293-b847-cf2427bc40b5
+m
+java:S11724"2Remove these unused method parameters "u", "from".(óã]J$909722fc-1e69-4e5b-a3ee-6d9bae58e60b
+f
+java:S3985;"*Remove this unused private "Status" class.(åÊÇÒJ$9b8bdaab-c22f-45d8-b561-42e5835aa5af
+j
+java:S1172A".Remove this unused method parameter "diGraph".(Æ…‡‰J$8d6841ba-d6e7-49c0-b924-fbefc91ae4ff
+t
+java:S3400N"9Remove this method and declare a constant for this value.(¸®Ã'J$8064b0b5-032b-4989-9fa7-47f35484c59a
+i
+java:S1172L"(Remove this unused method parameter "u".(Ãë”•ûÿÿÿÿJ$eca8b603-f92a-4240-9383-25966a73393a
+x
+java:S1172W"<Remove these unused method parameters "graph", "from", "to".(¹ª«‰J$221f6d3b-8b1c-47a0-abbc-44ebd8a59f2f
+w
+java:S1172_"6Remove these unused method parameters "path", "graph".(àôŒÅøÿÿÿÿJ$6294daea-c233-43c1-870f-32966aa908d3
+o
+java:S1172j".Remove this unused method parameter "diGraph".(ÿÚÔ€ıÿÿÿÿJ$a25bb158-99a0-403f-b179-f1a1506d9527
+f
+java:S1068"*Remove this unused "aGraph" private field.(î°÷ÌJ$8896d5d2-b38c-44d6-b3cc-efb2eb7298bb
+h
+java:S11444"-Remove this unused private "hasCycle" method.(óã]J$92657c3e-3c6c-4718-86a1-159c1635943c
+n
+java:S1144L"-Remove this unused private "hasCycle" method.(Ãë”•ûÿÿÿÿJ$3fa6beb8-cae7-4ceb-9dbc-e20cd47cb066
